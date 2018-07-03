@@ -4,7 +4,7 @@ Example of how to produce and consume messages using Apache Kafka Message Broker
 
 ### Prerequisites
 
-* Apache Kafka for Windows or download a docker container
+* Apache Kafka for Windows
 * Visual Studio 2015 or greather
 
 ## Getting Started
